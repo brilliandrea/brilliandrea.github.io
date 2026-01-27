@@ -1,7 +1,6 @@
 ---
 layout: about
 title: about
-permalink: /
 subtitle: <a href='#'>PhD in Operations Research</a>.
 
 profile:
