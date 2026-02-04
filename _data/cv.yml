@@ -76,8 +76,6 @@ cv:
         end_date: 2023
         summary: One year of collaboration with Professor Ana Luísa Custódio and Ph.D. Everton Jose da Silva to enhance the performance of the SID-PSM algorithm.
 
-    Volunteer: []
-
     Teaching:
       - institution: Sapienza University of Rome
         location: Rome, Italy
@@ -170,7 +168,7 @@ cv:
         url: https://doi.org/10.1007/s10957-024-02519-x
         summary: Theoretical complexity analysis for linesearch-based derivative-free optimization methods.
         type: published
-        
+
     Skills:
       - name: Optimization
         level: Expert
