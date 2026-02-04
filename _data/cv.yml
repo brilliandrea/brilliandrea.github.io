@@ -4,38 +4,26 @@ cv:
   email: brilli@diag.uniroma1.it
   location: Sapienza, University of Rome, Department of Computer, Control and Management Engineering "Antonio Ruberti"
   image: ""
-  summary: Researcher in Operations Research specialized in nonlinear constrained optimization, active member of
-the Derivative-Free community. 
+  summary: Researcher in Operations Research specialized in nonlinear constrained optimization, active member of the Derivative-Free community. Passionate for solving complex problems and enthusiastic about applying cutting-edge techniques to real-world challenges.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
       username: brilliandrea
     - network: LinkedIn
-      username: https://www.linkedin.com/in/andrea-brilli-161934199/?locale=it_IT
-
-#  address:
-#    street: 2712 Broadway St
-#    city: San Francisco
-#    region: California
-#    postalCode: CA 94115
-#    countryCode: US
+      username: andrea-brilli-161934199
 
   sections:
     Education:
       - institution: Sapienza, University of Rome
         location: Rome, Italy
-        #url: https://www.uzh.ch/
         area: Operations Research
         studyType: Ph.D.
         start_date: 2021
-        end_date: 2024
-        #score: ""
-        #courses: "Theory of Relativity"
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Curriculum: Operations Research"
+          - "Thesis: Derivative-Free Optimization: worst-case complexity for Line-Search methods and a mixed Penalty-Barrier approach"
+          - "ABRO (Automatic control, Bioengineering and Operations Research)"
 
       - institution: Sapienza, University of Rome
         location: Rome, Italy
@@ -44,9 +32,9 @@ the Derivative-Free community.
         start_date: 2019
         end_date: 2021
         score: "110/110 with honors"
-        #highlights:
-        #  - Description 1.
-        #  - Description 2.
+        highlights:
+          - "Curriculum: Decision Models"
+          - "Thesis: An interior penalty method for black-box constrained optimization"
 
       - institution: Sapienza, University of Rome
         location: Rome, Italy
@@ -54,142 +42,197 @@ the Derivative-Free community.
         studyType: Bachelor degree
         start_date: 2015
         end_date: 2019
-        score: "99/110"
-        #highlights:
-        #  - Description 1.
-        #  - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Sapienza University of Rome
+        position: PostDoc
+        location: Rome, Italy
+        start_date: 2024
+        summary: Department of Computer, Control and Management Engineering. Funded by PRIN (NextGenerationEU funds) for hydrodynamic optimization study on biomimetic and innovative hydrodynamic configurations for autonomous underwater gliders (AUG), specifically designed for ocean surveying.
         highlights:
-          - Relativity
-          - Description 2.
+          - "Support to PhD students on advanced techniques for training neural networks and derivative-free techniques"
+          - "Collaboration with INESC MN (Lisbon, Portugal) for optimization of structural design parameters of metamaterials"
+          - "Collaboration with NOVA University of Lisbon on techniques to approximate the Pareto Front of constrained multiobjective optimization problems"
+          - "Collaboration with Polytechnique Montréal to study nonsmooth constrained optimization problems"
+          - "Collaboration with University of Florence to enhance performance of Augmented Lagrangian techniques"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: European Space Agency - ESRIN - ϕ-lab
+        position: Research Visiting
+        location: ESRIN, Italy
+        start_date: 2026
+        summary: Collaboration to develop denoising techniques for satellite data striping noise.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Polytechnique Montréal
+        position: Ph.D. Visiting Researcher
+        location: Montréal, Canada
+        start_date: 2024
+        end_date: 2024
+        summary: Six months of collaboration with Professor Sébastien Le Digabel and Professor Youssef Diouane to enhance the performance of NOMAD solver.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Universidade NOVA de Lisboa
+        position: Ph.D. Visiting Researcher
+        location: Lisbon, Portugal
+        start_date: 2022
+        end_date: 2023
+        summary: One year of collaboration with Professor Ana Luísa Custódio and Ph.D. Everton Jose da Silva to enhance the performance of the SID-PSM algorithm.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    #Volunteer:
-    #  - company: People's Climate March
-    #    position: Lead Organizer
-    #    location: Zurich, Switzerland
-    #    start_date: 2014-04-01
-    #    end_date: 2015-07-01
-    #    summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-    #    highlights:
-    #      - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-    #      - "Men of the year 2014 by Time magazine"
+    Teaching:
+      - course: Mathematical Programming
+        institution: Sapienza University of Rome
+        start_date: 2025-09
+        end_date: 2026-01
+        summary: Introduction to multivariate calculus and mathematical optimization - bachelor degree in Computer Science Engineering
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: AIROYoung Dissertation Award
+        date: 2025
+        awarder: AIROYoung (Italian Operations Research Society)
+        summary: Yearly award for the best doctoral thesis in Operations Research defended in Italy.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Complexity results and active-set identification of a derivative-free method for bound-constrained problems
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - A. Brilli
+          - A. Cristofari
+          - G. Liuzzi
+          - S. Lucidi
+        publisher: Journal of Optimization Theory and Applications
+        releaseDate: 2024
+        url: https://arxiv.org/abs/2402.10801
+        summary: Accepted for publication in JOTA. Analysis of complexity and active-set identification for derivative-free optimization with bound constraints.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: A penalty-interior point method combined with mads for equality and inequality constrained optimization
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - C. Audet
+          - A. Brilli
+          - Y. Diouane
+          - S. Le Digabel
+          - E. Silva
+          - C. Tribes
+        publisher: arXiv preprint
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2601.20811
+        summary: Novel constraint-handling method combining penalty and interior point approaches with MADS algorithm.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Tunable ito–metal plasmonic metamaterial channel for tailored sensing: A simulation-driven approach"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - C. Alfisi
+          - A. Brilli
+          - H. Terças
+          - S. Cardoso
+        publisher: AIP Advances
+        releaseDate: 2025-12
+        url: https://doi.org/10.1063/5.0297834
+        summary: Optimization-driven design of plasmonic metamaterial sensors for tailored sensing applications.
+
+      - title: An interior point method for nonlinear constrained derivative-free optimization
+        authors:
+          - A. Brilli
+          - G. Liuzzi
+          - S. Lucidi
+        publisher: Optimization Methods and Software
+        releaseDate: 2025
+        url: https://doi.org/10.1080/10556788.2025.2453110
+        summary: Novel interior point approach for solving general nonlinear constrained problems without derivatives.
+
+      - title: Nonlinear derivative-free constrained optimization with a mixed penalty-logarithmic barrier approach and direct search
+        authors:
+          - A. Brilli
+          - A. L. Custódio
+          - G. Liuzzi
+          - E. J. Silva
+        publisher: arXiv preprint
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2407.21634
+        summary: Mixed penalty-barrier method combined with direct search for general constrained derivative-free optimization.
+
+      - title: Worst case complexity bounds for linesearch-type derivative-free algorithms
+        authors:
+          - A. Brilli
+          - M. Kimiaiei
+          - G. Liuzzi
+          - S. Lucidi
+        publisher: Journal of Optimization Theory and Applications
+        releaseDate: 2024
+        url: https://doi.org/10.1007/s10957-024-02519-x
+        summary: Theoretical complexity analysis for linesearch-based derivative-free optimization methods.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Optimization
+        level: Expert
+        icon: fa-solid fa-chart-line
+        keywords: "Derivative-Free Optimization, Nonsmooth Optimization, Constrained Optimization, Direct Search Methods, Interior Point Methods, Penalty Methods"
+
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB, LaTeX"
+
+      - name: Software Development
+        level: Advanced
+        icon: fa-solid fa-laptop-code
+        keywords: "DFL Library, NOMAD, LOG-DS"
 
     Languages:
-      - name: German
+      - name: Italian
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Portuguese
+        summary: "Basic"
+
+      - name: Spanish
+        summary: "Basic"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Deep Learning Specialization
+        date: 2020
+        issuer: Coursera
+        icon: fa-solid fa-brain
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Data-driven Astronomy
+        date: 2020
+        issuer: University of Sydney
+        icon: fa-solid fa-satellite
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: CyberChallenge 2020
+        date: 2020
+        issuer: CINI (Consorzio interuniversitario Nazionale per l'Informatica)
+        icon: fa-solid fa-shield
+        summary: Training programme organized by CINI in collaboration with the Ministry of Defence and SISR.
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: DFL - Derivative-Free Library
+        summary: Collaborator for the implementation of algorithms in Python within the DFL library. Author of LOG-DFL.
+        start_date: 2021
+
+      - name: LOG-DS
+        summary: Co-author of the LOG-DS algorithm, a direct search method for general nonlinear constrained problems implemented in Matlab.
+        start_date: 2023
+
+      - name: NOMAD
+        summary: A Blackbox Optimization Software. Supported the implementation of new constraint-handling strategies within the package.
+        start_date: 2024
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Giampaolo Liuzzi
+        icon: fa-solid fa-user-graduate
+        reference: Ph.D. supervisor, Sapienza University of Rome. Email - liuzzi@diag.uniroma1.it
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Stefano Lucidi
+        icon: fa-solid fa-user-graduate
+        reference: Master thesis advisor, Sapienza University of Rome. Email - lucidi@diag.uniroma1.it
+
+      - name: Professor Ana Luísa Custódio
+        icon: fa-solid fa-user-graduate
+        reference: NOVA University of Lisbon. Email - algb@fct.unl.pt
+
+      - name: Professor Sébastien Le Digabel
+        icon: fa-solid fa-user-graduate
+        reference: Polytechnique Montréal. Email - sebastien.le-digabel@polymtl.ca
+
+      - name: Professor Youssef Diouane
+        icon: fa-solid fa-user-graduate
+        reference: Polytechnique Montréal. Email - youssef.diouane@polymtl.ca
