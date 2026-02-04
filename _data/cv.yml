@@ -102,7 +102,7 @@ cv:
           - G. Liuzzi
           - S. Lucidi
         publisher: Journal of Optimization Theory and Applications
-        releaseDate: "2024"
+        releaseDate: "2026"
         url: https://arxiv.org/abs/2402.10801
         summary: Accepted for publication in JOTA. Analysis of complexity and active-set identification for derivative-free optimization with bound constraints.
         type: published
