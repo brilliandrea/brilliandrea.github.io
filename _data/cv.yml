@@ -81,8 +81,8 @@ cv:
         location: Rome, Italy
         area: Mathematical Programming
         studyType: Professor
-        start_date: !!timestamp 2025-09-01
-        end_date: !!timestamp 2026-01-01
+        start_date: 2025-09-01
+        end_date: 2026-01-01
         highlights:
           - "Introduction to multivariate calculus and mathematical optimization"
           - "Bachelor degree in Computer Science Engineering"
@@ -91,7 +91,7 @@ cv:
       - title: AIROYoung Dissertation Award
         authors:
           - AIROYoung (Italian Operations Research Society)
-        date: !!timestamp 2025-09-04
+        date: 2025-09-04
         awarder: AIROYoung (Italian Operations Research Society)
         summary: Yearly award for the best doctoral thesis in Operations Research defended in Italy.
 
@@ -103,7 +103,7 @@ cv:
           - G. Liuzzi
           - S. Lucidi
         publisher: Journal of Optimization Theory and Applications
-        releaseDate: 2024
+        releaseDate: "2024"
         url: https://arxiv.org/abs/2402.10801
         summary: Accepted for publication in JOTA. Analysis of complexity and active-set identification for derivative-free optimization with bound constraints.
 
@@ -116,7 +116,7 @@ cv:
           - E. Silva
           - C. Tribes
         publisher: arXiv preprint
-        releaseDate: 2026
+        releaseDate: "2026"
         url: https://arxiv.org/abs/2601.20811
         summary: Novel constraint-handling method combining penalty and interior point approaches with MADS algorithm.
 
@@ -127,7 +127,7 @@ cv:
           - H. Terças
           - S. Cardoso
         publisher: AIP Advances
-        releaseDate: 2025
+        releaseDate: "2025"
         url: https://doi.org/10.1063/5.0297834
         summary: Optimization-driven design of plasmonic metamaterial sensors for tailored sensing applications.
 
@@ -137,7 +137,7 @@ cv:
           - G. Liuzzi
           - S. Lucidi
         publisher: Optimization Methods and Software
-        releaseDate: 2025
+        releaseDate: "2025"
         url: https://doi.org/10.1080/10556788.2025.2453110
         summary: Novel interior point approach for solving general nonlinear constrained problems without derivatives.
 
@@ -148,7 +148,7 @@ cv:
           - G. Liuzzi
           - E. J. Silva
         publisher: arXiv preprint
-        releaseDate: 2025
+        releaseDate: "2025"
         url: https://arxiv.org/abs/2407.21634
         summary: Mixed penalty-barrier method combined with direct search for general constrained derivative-free optimization.
 
@@ -159,7 +159,7 @@ cv:
           - G. Liuzzi
           - S. Lucidi
         publisher: Journal of Optimization Theory and Applications
-        releaseDate: 2024
+        releaseDate: "2024"
         url: https://doi.org/10.1007/s10957-024-02519-x
         summary: Theoretical complexity analysis for linesearch-based derivative-free optimization methods.
 
