@@ -108,6 +108,7 @@ cv:
         releaseDate: "2024"
         url: https://arxiv.org/abs/2402.10801
         summary: Accepted for publication in JOTA. Analysis of complexity and active-set identification for derivative-free optimization with bound constraints.
+        type: published
 
       - title: A penalty-interior point method combined with mads for equality and inequality constrained optimization
         authors:
@@ -121,6 +122,7 @@ cv:
         releaseDate: "2026"
         url: https://arxiv.org/abs/2601.20811
         summary: Novel constraint-handling method combining penalty and interior point approaches with MADS algorithm.
+        type: preprint
 
       - title: "Tunable ito–metal plasmonic metamaterial channel for tailored sensing: A simulation-driven approach"
         authors:
@@ -132,6 +134,7 @@ cv:
         releaseDate: "2025"
         url: https://doi.org/10.1063/5.0297834
         summary: Optimization-driven design of plasmonic metamaterial sensors for tailored sensing applications.
+        type: published
 
       - title: An interior point method for nonlinear constrained derivative-free optimization
         authors:
@@ -142,6 +145,7 @@ cv:
         releaseDate: "2025"
         url: https://doi.org/10.1080/10556788.2025.2453110
         summary: Novel interior point approach for solving general nonlinear constrained problems without derivatives.
+        type: preprint
 
       - title: Nonlinear derivative-free constrained optimization with a mixed penalty-logarithmic barrier approach and direct search
         authors:
@@ -153,6 +157,7 @@ cv:
         releaseDate: "2025"
         url: https://arxiv.org/abs/2407.21634
         summary: Mixed penalty-barrier method combined with direct search for general constrained derivative-free optimization.
+        type: preprint
 
       - title: Worst case complexity bounds for linesearch-type derivative-free algorithms
         authors:
@@ -164,7 +169,8 @@ cv:
         releaseDate: "2024"
         url: https://doi.org/10.1007/s10957-024-02519-x
         summary: Theoretical complexity analysis for linesearch-based derivative-free optimization methods.
-
+        type: published
+        
     Skills:
       - name: Optimization
         level: Expert

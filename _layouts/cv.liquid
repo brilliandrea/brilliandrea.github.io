@@ -173,6 +173,22 @@ layout: default
               {% elsif section_title == 'Projects' or section_title == 'Open Source Projects' %}
                 {% assign entries = section_entries %}
                 {% include cv/projects.liquid %}
+              {% elsif section_title == 'Publications' %}
+                {% comment %} Split publications by type {% endcomment %}
+                {% assign published_papers = section_entries | where: "type", "published" %}
+                {% assign preprints = section_entries | where: "type", "preprint" %}
+                
+                {% if published_papers.size > 0 %}
+                  <h4 class="mt-3 mb-2">Journal articles</h4>
+                  {% assign entries = published_papers %}
+                  {% include cv/publications.liquid %}
+                {% endif %}
+                
+                {% if preprints.size > 0 %}
+                  <h4 class="mt-4 mb-2">Preprints</h4>
+                  {% assign entries = preprints %}
+                  {% include cv/publications.liquid %}
+                {% endif %}
               {% elsif section_title == 'References' %}
                 {% assign entries = section_entries %}
                 {% include cv/references.liquid %}
