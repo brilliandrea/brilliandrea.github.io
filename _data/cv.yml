@@ -42,8 +42,6 @@ cv:
         studyType: Bachelor degree
         start_date: 2015
         end_date: 2019
-        highlights:
-          - empty # Add this line
 
     Experience:
       - company: Sapienza University of Rome
