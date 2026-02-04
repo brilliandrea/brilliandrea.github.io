@@ -29,12 +29,13 @@ I am a postdoctoral researcher at the Department of Computer, Control, and Manag
 
 I completed my PhD in Operations Research, developing novel algorithms for optimization problems where gradient information is unavailable or unreliable. My work combines theoretical analysis with practical algorithm development and implementation.
 
+I am currently working toward designing a general directional derivative-free algorithmic framework that leverages the advantages of direct search and line-search methods while mitigating their inherent limitations.
+
 ## Research Interests
 
 - Derivative-free optimization methods
 - Nonsmooth constrained optimization
 - Multi-objective optimization
-- Trust-region methods
 - Numerical algorithms and convergence analysis
 
 ## Teaching
