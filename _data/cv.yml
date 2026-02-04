@@ -77,11 +77,15 @@ cv:
         summary: One year of collaboration with Professor Ana Luísa Custódio and Ph.D. Everton Jose da Silva to enhance the performance of the SID-PSM algorithm.
 
     Teaching:
-      - course: Mathematical Programming
-        institution: Sapienza University of Rome
+      - institution: Sapienza University of Rome
+        location: Rome, Italy
+        area: Mathematical Programming
+        studyType: Teaching Assistant
         start_date: 2025-09
         end_date: 2026-01
-        summary: Introduction to multivariate calculus and mathematical optimization - bachelor degree in Computer Science Engineering
+        highlights:
+          - "Introduction to multivariate calculus and mathematical optimization"
+          - "Bachelor degree in Computer Science Engineering"
 
     Awards:
       - title: AIROYoung Dissertation Award
