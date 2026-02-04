@@ -80,7 +80,7 @@ cv:
       - institution: Sapienza University of Rome
         location: Rome, Italy
         area: Mathematical Programming
-        studyType: Teaching Assistant
+        studyType: Professor
         start_date: 2025-09
         end_date: 2026-01
         highlights:
@@ -90,7 +90,7 @@ cv:
     Awards:
       - title: AIROYoung Dissertation Award
         date: 2025
-        awarder: AIROYoung (Italian Operations Research Society)
+        author: AIROYoung (Italian Operations Research Society)
         summary: Yearly award for the best doctoral thesis in Operations Research defended in Italy.
 
     Publications:
