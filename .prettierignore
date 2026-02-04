@@ -13,3 +13,6 @@ _scripts/*
 _data/citations.yml
 .github/workflows/
 .github/
+# Ignore Liquid template files
+_layouts/*.liquid
+_includes/**/*.liquid

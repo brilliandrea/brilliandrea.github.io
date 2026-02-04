@@ -121,7 +121,9 @@ layout: default
         {% endif %}
 
         <!-- RenderCV Sections - Merge Experience and Volunteer -->
-        {% comment %} First, combine Experience and Volunteer entries {% endcomment %}
+        {% comment %} 
+        Commented the all section
+        First, combine Experience and Volunteer entries
         {% assign volunteer_section = cv.sections.Volunteer | default: empty_array %}
         {% assign combined_experience = cv.sections.Experience | concat: cv.sections.Volunteer %}
         {% if combined_experience.size > 0 %}
@@ -134,16 +136,20 @@ layout: default
             </div>
           </div>
         {% endif %}
+        {% endcomment %}
 
         {% comment %} Now render all other sections except Experience and Volunteer {% endcomment %}
         {% for section_pair in cv.sections %}
           {% assign section_title = section_pair[0] %}
           {% assign section_entries = section_pair[1] %}
 
-          {% comment %} Skip Experience and Volunteer as we've already processed them combined {% endcomment %}
+          {% comment %} 
+          Commented the skip
+          Skip Experience and Volunteer as we've already processed them combined
           {% if section_title == 'Experience' or section_title == 'Volunteer' %}
             {% continue %}
           {% endif %}
+          {% endcomment %}
 
           <a class="anchor" id="{{ section_title | slugify }}"></a>
           <div class="card mt-3 p-3">
