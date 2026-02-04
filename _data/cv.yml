@@ -81,8 +81,8 @@ cv:
         location: Rome, Italy
         area: Mathematical Programming
         studyType: Professor
-        start_date: 2025-09-01
-        end_date: 2026-01-01
+        start_date: !!timestamp 2025-09-01
+        end_date: !!timestamp 2026-01-01
         highlights:
           - "Introduction to multivariate calculus and mathematical optimization"
           - "Bachelor degree in Computer Science Engineering"
@@ -91,7 +91,7 @@ cv:
       - title: AIROYoung Dissertation Award
         authors:
           - AIROYoung (Italian Operations Research Society)
-        date: 2025-09-04
+        date: !!timestamp 2025-09-04
         awarder: AIROYoung (Italian Operations Research Society)
         summary: Yearly award for the best doctoral thesis in Operations Research defended in Italy.
 
