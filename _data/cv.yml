@@ -81,8 +81,8 @@ cv:
         location: Rome, Italy
         area: Mathematical Programming
         studyType: Professor
-        start_date: 2025-09
-        end_date: 2026-01
+        start_date: 2025-09-01
+        end_date: 2026-01-01
         highlights:
           - "Introduction to multivariate calculus and mathematical optimization"
           - "Bachelor degree in Computer Science Engineering"
@@ -91,7 +91,7 @@ cv:
       - title: AIROYoung Dissertation Award
         authors:
           - AIROYoung (Italian Operations Research Society)
-        date: 2025-09
+        date: 2025-09-04
         awarder: AIROYoung (Italian Operations Research Society)
         summary: Yearly award for the best doctoral thesis in Operations Research defended in Italy.
 
@@ -127,7 +127,7 @@ cv:
           - H. Terças
           - S. Cardoso
         publisher: AIP Advances
-        releaseDate: 2025-12
+        releaseDate: 2025
         url: https://doi.org/10.1063/5.0297834
         summary: Optimization-driven design of plasmonic metamaterial sensors for tailored sensing applications.
 
