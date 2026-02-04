@@ -31,13 +31,13 @@ I completed my PhD in Operations Research, developing novel algorithms for optim
 
 I am currently working toward designing a general directional derivative-free algorithmic framework that leverages the advantages of direct search and line-search methods while mitigating their inherent limitations.
 
-## Research Interests
+# Research Interests
 
 - Derivative-free optimization methods
 - Nonsmooth constrained optimization
 - Multi-objective optimization
 - Numerical algorithms and convergence analysis
 
-## Teaching
+# Teaching
 
 I teach courses in mathematical programming and optimization methods at the university level.
