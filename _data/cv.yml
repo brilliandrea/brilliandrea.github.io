@@ -79,13 +79,12 @@ cv:
     Teaching:
       - institution: Sapienza University of Rome
         location: Rome, Italy
-        area: Mathematical Programming
-        studyType: Professor
+        area: Bachelor degree in Computer Science Engineering
+        studyType: Mathematical Programming
         start_date: 2025-09-01
         end_date: 2026-01-01
         highlights:
           - "Introduction to multivariate calculus and mathematical optimization"
-          - "Bachelor degree in Computer Science Engineering"
 
     Awards:
       - title: AIROYoung Dissertation Award
@@ -143,7 +142,7 @@ cv:
         releaseDate: "2025"
         url: https://doi.org/10.1080/10556788.2025.2453110
         summary: Novel interior point approach for solving general nonlinear constrained problems without derivatives.
-        type: preprint
+        type: published
 
       - title: Nonlinear derivative-free constrained optimization with a mixed penalty-logarithmic barrier approach and direct search
         authors:
