@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Andrea Brilli, PostDoc # the website title (if blank, full name will be used instead)
+title: Andrea Brilli # the website title (if blank, full name will be used instead)
 first_name: Andrea
 #middle_name: R.
 last_name: Brilli
 contact_note: >
   You can reach me at <a href="mailto:brilli@diag.uniroma1.it">brilli@diag.uniroma1.it</a>.
 description: >
-  PhD in Operations Research. Research interests in derivative-free optimization, nonsmooth optimization, and multi-objective optimization.
+  Ph.D. in Operations Research. Research interests in derivative-free optimization, nonsmooth optimization, and multi-objective optimization.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

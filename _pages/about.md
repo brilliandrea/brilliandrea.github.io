@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Ph.D. in Operations Research</p>.
+subtitle: <p>Postdoctoral researcher in Operations Research</p>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p href='https://www.diag.uniroma1.it/en'>DIAG, Sapienza University of Rome</p>
+    <a href='https://www.diag.uniroma1.it/en'>DIAG, Sapienza University of Rome</a>
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
