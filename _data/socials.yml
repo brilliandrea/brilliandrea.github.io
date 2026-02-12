@@ -7,7 +7,7 @@ scholar_userid: Tk3BpFoAAAAJ&hl
 orcid_id: 0000-0002-8307-4106
 github_username: brilliandrea
 linkedin_username: andrea-brilli-161934199
-rss_icon: false
+# rss_icon: false
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 #custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
