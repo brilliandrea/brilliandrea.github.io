@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>PhD in Operations Research</a>.
+subtitle: <p>Ph.D. in Operations Research</p>.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p href='https://www.diag.uniroma1.it/en'>DIAG, Sapienza University of Rome</p>
 
-#selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -29,7 +29,7 @@ I am a postdoctoral researcher at the Department of Computer, Control, and Manag
 
 I completed my PhD in Operations Research, developing novel algorithms for optimization problems where gradient information is unavailable or unreliable. My work combines theoretical analysis with practical algorithm development and implementation.
 
-I am currently working toward designing a general directional derivative-free algorithmic framework that leverages the advantages of direct search and line-search methods while mitigating their inherent limitations.
+I am currently working toward designing a general directional derivative-free algorithmic framework that leverages the advantages of direct search and line-search methods while mitigating their inherent limitations. There might be news soon!
 
 # Research Interests
 

@@ -7,7 +7,7 @@ first_name: Andrea
 #middle_name: R.
 last_name: Brilli
 contact_note: >
-  You can reach me at [brilli@diag.uniroma1.it](mailto:brilli@diag.uniroma1.it)
+  You can reach me at <a href="brilli@diag.uniroma1.it" target="_blank">brilli@diag.uniroma1.it</a>
 description: >
   PhD in Operations Research. Research interests in derivative-free optimization, nonsmooth optimization, and multi-objective optimization.
 footer_text: >
