@@ -1,5 +1,4 @@
 ---
-
 layout: course
 title: Programmazione Matematica (Mathematical Programming)
 description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
@@ -9,6 +8,7 @@ term: Fall
 location: Edificio Marco Polo, Room 108
 time: Tuesdays (18:00-20:00), Wednesdays (14:00-18:00), Thursdays (14:00-16:00)
 course_id: programmazione-matematica
+---
 
 ### Course Overview
 
