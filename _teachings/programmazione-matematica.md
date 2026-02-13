@@ -1,4 +1,5 @@
 ---
+
 layout: course
 title: Programmazione Matematica (Mathematical Programming)
 description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
@@ -21,4 +22,3 @@ This course provides a comprehensive introduction to multivariate calculus and m
 #### Prerequisites
 
 - Comfort with basic linear algebra and calculus
-
