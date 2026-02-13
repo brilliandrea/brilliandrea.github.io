@@ -8,17 +8,17 @@
   color-scheme: light;
   --global-theme-color: #f29105; // Warm orange (main accent)
   --global-hover-color: #d97904; // Darker orange (hover states)
-  --global-bg-color: #ffffff; // Clean white background
-  --global-text-color: #2d2d2d; // Dark gray text
+  --global-bg-color: #fdfaf6; // Clean white background
+  --global-text-color: #3d3935; // Dark gray text
   --global-footer-bg-color: #f8f4f0; // Warm off-white
   --global-code-bg-color: #fff5e6; // Light peachy background
   --global-text-color-light: #{v.$grey-color};
   --global-hover-text-color: #{v.$white-color};
-  --global-footer-text-color: #{v.$grey-color-light};
+  --global-footer-text-color: #3d3935;
   --global-footer-link-color: #{v.$white-color};
   --global-distill-app-color: #{v.$grey-color};
-  --global-divider-color: rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #{v.$white-color};
+  --global-divider-color: #e8e1d8;
+  --global-card-bg-color: #ffffff;
   --global-highlight-color: #{v.$red-color-dark};
   --global-back-to-top-bg-color: rgba(
     #{color.channel(v.$black-color, "red", v.$space: rgb)},
