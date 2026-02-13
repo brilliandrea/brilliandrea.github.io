@@ -6,14 +6,14 @@
 
 :root {
   color-scheme: light;
-  --global-theme-color: #f29105; // Warm orange (main accent)
-  --global-hover-color: #d97904; // Darker orange (hover states)
-  --global-bg-color: #ffffff; // Clean white background
-  --global-text-color: #2d2d2d; // Dark gray text
-  --global-footer-bg-color: #f8f4f0; // Warm off-white
-  --global-code-bg-color: #fff5e6; // Light peachy background
+  --global-bg-color: #{v.$white-color};
+  --global-code-bg-color: #{v.$code-bg-color-light};
+  --global-text-color: #{v.$black-color};
   --global-text-color-light: #{v.$grey-color};
+  --global-theme-color: #{v.$purple-color};
+  --global-hover-color: #{v.$purple-color};
   --global-hover-text-color: #{v.$white-color};
+  --global-footer-bg-color: #{v.$grey-color-dark};
   --global-footer-text-color: #{v.$grey-color-light};
   --global-footer-link-color: #{v.$white-color};
   --global-distill-app-color: #{v.$grey-color};
@@ -76,14 +76,14 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-theme-color: #ff9f40; // Brighter orange (better contrast)
-  --global-hover-color: #ffb366; // Light orange (hover)
-  --global-bg-color: #1a1a1a; // Deep charcoal
-  --global-text-color: #e8e6e3; // Warm off-white text
-  --global-footer-bg-color: #2d2520; // Dark warm brown
-  --global-code-bg-color: #2a2219; // Dark warm gray
+  --global-bg-color: #{v.$grey-color-dark};
+  --global-code-bg-color: #{v.$code-bg-color-dark};
+  --global-text-color: #{v.$grey-color-light};
   --global-text-color-light: #{v.$grey-color};
+  --global-theme-color: #{v.$cyan-color};
+  --global-hover-color: #{v.$cyan-color};
   --global-hover-text-color: #{v.$white-color};
+  --global-footer-bg-color: #{v.$grey-color-light};
   --global-footer-text-color: #{v.$grey-color-dark};
   --global-footer-link-color: #{v.$black-color};
   --global-distill-app-color: #{v.$grey-color-light};
@@ -194,12 +194,7 @@ html[data-theme-setting="light"] {
 .fa-half-sun-moon::after {
   content: "\f185";
   color: var(--global-text-color);
-  clip-path: polygon(
-    calc(50% + 0.5px) 0,
-    100% 0,
-    100% 100%,
-    calc(50% + 0.5px) 100%
-  );
+  clip-path: polygon(calc(50% + 0.5px) 0, 100% 0, 100% 100%, calc(50% + 0.5px) 100%);
   right: -1.5px; /* slight overflow to avoid right-edge clipping */
   transform: translateX(-1px); /* visually re-center the sun half */
 }
