@@ -78,9 +78,9 @@ html[data-theme="dark"] {
   color-scheme: dark;
   --global-theme-color: #ff9f40; // Brighter orange (better contrast)
   --global-hover-color: #ffb366; // Light orange (hover)
-  --global-bg-color: #1a1a1a; // Deep charcoal
+  --global-bg-color: #2b2520; // Deep charcoal
   --global-text-color: #e8e6e3; // Warm off-white text
-  --global-footer-bg-color: #2d2520; // Dark warm brown
+  --global-footer-bg-color: #3d352f; // Dark warm brown
   --global-code-bg-color: #2a2219; // Dark warm gray
   --global-text-color-light: #{v.$grey-color};
   --global-hover-text-color: #{v.$white-color};
@@ -88,7 +88,7 @@ html[data-theme="dark"] {
   --global-footer-link-color: #{v.$black-color};
   --global-distill-app-color: #{v.$grey-color-light};
   --global-divider-color: #424246;
-  --global-card-bg-color: #{v.$grey-900};
+  --global-card-bg-color: #352f2a;
   --global-back-to-top-bg-color: rgba(
     #{color.channel(v.$white-color, "red", v.$space: rgb)},
     #{color.channel(v.$white-color, "green", v.$space: rgb)},
