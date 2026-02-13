@@ -86,6 +86,15 @@ cv:
         highlights:
           - "Introduction to multivariate calculus and mathematical optimization"
 
+      - institution: Sapienza University of Rome
+        location: Rome, Italy
+        area: Master degree in Industrial Engineering
+        studyType: Optimization of Complex Systems
+        start_date: 2026-03-01
+        end_date: 2026-06-01
+        highlights:
+          - "Advanced algorithms for nonlinear optimization"
+
     Awards:
       - title: AIROYoung Dissertation Award
         authors:
