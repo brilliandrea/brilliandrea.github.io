@@ -31,13 +31,25 @@ I completed my PhD in Operations Research, developing novel algorithms for optim
 
 I am currently working toward designing a general directional derivative-free algorithmic framework that leverages the advantages of direct search and line-search methods while mitigating their inherent limitations. There might be news soon!
 
-# Research Interests
+### Research Interests
 
 - Derivative-free optimization methods
 - Nonsmooth constrained optimization
 - Multi-objective optimization
 - Numerical algorithms and convergence analysis
 
-# Teaching
+### Teaching
 
 I teach courses in mathematical programming and optimization methods at the university level.
+
+### My Projects
+
+#### [logds](https://github.com/brilliandrea/logds/releases)
+
+A Matlab implementation of derivative-free direct search methods. The algorithm is able to address general nonconvex constrained optimization problems with a penalty-interior point method, addressing non-relaxable constraints if necessary. The performance is enhance by quadratic models and simplex gradients. The implementation is undergoing a cleaning stage for an official release, but a pre-release is available if anyone is curious.
+For anyone interested in testing the algorithm, send me an e-mail and we can set things up together!
+
+#### [DerivativeFreeLibrary-logdfl](https://github.com/DerivativeFreeLibrary/LOGDFL)
+
+A Python implementation of a derivative-free line-search method for general nonconvex constrained optimization problems.
+As for log-ds, send me an e-mail for any support!
