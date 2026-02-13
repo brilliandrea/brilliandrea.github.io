@@ -7,20 +7,9 @@ year: 2025
 term: Fall
 location: Edificio Marco Polo, Room 108
 time: Tuesdays (18:00-20:00), Wednesdays (14:00-18:00), Thursdays (14:00-16:00)
-course_id: data-science-fundamentals
-schedule:
-  - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
----
+course_id: programmazione-matematica
 
-## Course Overview
+### Course Overview
 
 This course provides a comprehensive introduction to multivariate calculus and mathematical optimization. Students will:
 
@@ -29,13 +18,7 @@ This course provides a comprehensive introduction to multivariate calculus and m
 - Learn the steepest descent method for general optimization problems
 - Learn the Newton method for general optimization problems
 
-## Prerequisites
+#### Prerequisites
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+- Comfort with basic linear algebra and calculus
 
-## Textbooks
-
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
