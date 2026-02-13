@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Postdoctoral researcher in Operations Research</p>.
+subtitle: <p>Postdoctoral researcher in Operations Research</p>
 
 profile:
   align: right
