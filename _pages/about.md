@@ -44,12 +44,12 @@ I teach courses in mathematical programming and optimization methods at the univ
 
 ### My Projects
 
-#### [logds](https://github.com/brilliandrea/logds/releases)
+#### [log-ds](https://github.com/brilliandrea/logds/releases)
 
 A Matlab implementation of derivative-free direct search methods. The algorithm is able to address general nonconvex constrained optimization problems with a penalty-interior point method, addressing non-relaxable constraints if necessary. The performance is enhance by quadratic models and simplex gradients. The implementation is undergoing a cleaning stage for an official release, but a pre-release is available if anyone is curious.
 For anyone interested in testing the algorithm, send me an e-mail and we can set things up together!
 
-#### [DerivativeFreeLibrary-logdfl](https://github.com/DerivativeFreeLibrary/LOGDFL)
+#### [log-dfl](https://github.com/DerivativeFreeLibrary/LOGDFL)
 
 A Python implementation of a derivative-free line-search method for general nonconvex constrained optimization problems.
 As for log-ds, send me an e-mail for any support!
