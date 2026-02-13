@@ -107,9 +107,9 @@ ninja.data = [{
           description: "This course provides an understanding of advanced algorithms to tackle general optimization problems.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/optimization-of-complex-systems/";
-            },},{id: "teachings-programmazione-matematica",
-          title: 'Programmazione Matematica',
-          description: "",
+            },},{id: "teachings-programmazione-matematica-mathematical-programming",
+          title: 'Programmazione Matematica (Mathematical Programming)',
+          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/programmazione-matematica/";
             },},{
