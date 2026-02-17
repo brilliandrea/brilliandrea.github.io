@@ -22,7 +22,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.7128906"
      inkscape:cx="255.7081"
-     inkscape:cy="253.66477"
+     inkscape:cy="254.83238"
      inkscape:window-width="1920"
      inkscape:window-height="1121"
      inkscape:window-x="-7"
@@ -31,93 +31,102 @@
      inkscape:current-layer="svg7" />
   <!-- Background -->
   <circle
-     cx="256"
-     cy="256"
-     r="248"
+     cx="255.59715"
+     cy="261.14496"
      fill="white"
      id="circle1"
-     style="fill:none" />
-  <circle
-     cx="256"
-     cy="256"
-     r="190"
+     style="fill:none;stroke-width:1.27016"
+     r="315" />
+  <ellipse
+     cx="255.59715"
+     cy="261.14496"
      fill="none"
      stroke="#f29105"
-     stroke-width="6"
+     stroke-width="7.62097"
      id="circle2"
-     style="stroke:#d97904;stroke-opacity:1;fill:#fff5e6;fill-opacity:1" />
+     style="fill:#fff5e6;fill-opacity:1;stroke:#d97904;stroke-opacity:1"
+     rx="241.33054"
+     ry="241.33066" />
   <!-- Outer trust-region circle -->
   <!-- Initials -->
   <!-- Positive basis central point -->
   <!-- Vertical direction -->
   <line
-     x1="256"
-     y1="265.0094"
-     x2="256"
-     y2="65.453552"
+     x1="255.59715"
+     y1="272.58835"
+     x2="255.59715"
+     y2="19.120399"
      stroke="#f29105"
-     stroke-width="5.42611"
+     stroke-width="6.89201"
      stroke-linecap="round"
      id="line3"
      style="stroke:#d97904;stroke-opacity:1" />
   <!-- Left diagonal direction -->
   <line
-     x1="252.92984"
-     y1="268.11691"
-     x2="112.93105"
-     y2="375.92413"
+     x1="251.69756"
+     y1="276.5354"
+     x2="73.876541"
+     y2="413.46793"
      stroke="#f29105"
-     stroke-width="6.30223"
+     stroke-width="8.00485"
      stroke-linecap="round"
      id="line4"
      style="stroke:#d97904;stroke-opacity:1" />
   <!-- Right diagonal direction -->
   <line
-     x1="254.50034"
-     y1="264.71472"
-     x2="387.29218"
-     y2="385.74832"
+     x1="253.69232"
+     y1="272.21402"
+     x2="422.35941"
+     y2="425.94626"
      stroke="#f29105"
-     stroke-width="6.5035"
+     stroke-width="8.26052"
      stroke-linecap="round"
      id="line5"
      style="stroke:#d97904;stroke-opacity:1" />
   <!-- Endpoints on circle -->
-  <circle
-     cx="109.86089"
-     cy="377.82669"
-     r="9"
+  <ellipse
+     cx="69.976906"
+     cy="415.88449"
      fill="#f29105"
-     id="circle6" />
-  <circle
-     cx="256"
-     cy="66"
-     r="9"
+     id="circle6"
+     rx="11.431452"
+     ry="11.431451"
+     style="stroke-width:1.27016" />
+  <ellipse
+     cx="255.59715"
+     cy="19.814472"
      fill="#f29105"
-     id="circle5" />
-  <circle
-     cx="256"
-     cy="268.54959"
-     r="8"
+     id="circle5"
+     rx="11.431452"
+     ry="11.431451"
+     style="stroke-width:1.27016" />
+  <ellipse
+     cx="255.59715"
+     cy="277.08496"
      fill="#f29105"
-     id="circle3" />
-  <circle
-     cx="390.46292"
-     cy="387.75143"
-     r="9"
+     id="circle3"
+     rx="10.161289"
+     ry="10.161291"
+     style="stroke-width:1.27016" />
+  <ellipse
+     cx="426.38657"
+     cy="428.49051"
      fill="#f29105"
-     id="circle7" />
+     id="circle7"
+     rx="11.431452"
+     ry="11.431451"
+     style="stroke-width:1.27016" />
   <text
-     x="263.58951"
-     y="257.08096"
+     x="265.23697"
+     y="262.51797"
      text-anchor="middle"
      font-family="'Times New Roman', serif"
      font-style="italic"
-     font-size="170px"
+     font-size="215.927px"
      fill="#f29105"
      font-weight="600"
      id="text2"
-     inkscape:transform-center-x="0.58380844"
-     inkscape:transform-center-y="-1.1676169"
-     style="fill:#3d3935;fill-opacity:1">AB</text>
+     inkscape:transform-center-x="0.74158453"
+     inkscape:transform-center-y="-1.4828844"
+     style="fill:#3d3935;fill-opacity:1;stroke-width:1.27016">AB</text>
 </svg>
