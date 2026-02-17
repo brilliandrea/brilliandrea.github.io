@@ -10,7 +10,7 @@ time: Tuesdays 15:00-18:00 / Fridays 17:00-19:00
 course_id: optimization-of-complex-systems
 schedule:
   - week: 1
-    date: Feb
+    date: Feb 24
     topic: Course Introduction
     description: Overview of mathematical optimization, course structure, and expectations.
 #    materials:
