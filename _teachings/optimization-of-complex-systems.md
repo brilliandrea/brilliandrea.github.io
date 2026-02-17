@@ -22,7 +22,7 @@ schedule:
 
 ### Course Overview
 
-The main goal of this course is to you how to design algorithms for different types of optimization problems. We'll dig into both the practical and theoretical sides of:
+The main goal of this course is to teach you how to design algorithms for different types of optimization problems. We'll dig into both the practical and theoretical sides of:
 
 - Derivative-Free methods
 - Constraint-handling techniques
