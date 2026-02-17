@@ -102,13 +102,13 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-optimization-of-complex-systems",
-          title: 'Optimization of Complex Systems',
+            },},{id: "teachings-optimization-of-complex-systems-60h",
+          title: 'Optimization of Complex Systems - 60h',
           description: "This course provides an understanding of advanced algorithms to tackle general optimization problems.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/optimization-of-complex-systems/";
-            },},{id: "teachings-programmazione-matematica-mathematical-programming",
-          title: 'Programmazione Matematica (Mathematical Programming)',
+            },},{id: "teachings-programmazione-matematica-mathematical-programming-90h",
+          title: 'Programmazione Matematica (Mathematical Programming) - 90h',
           description: "This course covers the foundational aspects of continuous optimization problems and algorithms to solve them.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/programmazione-matematica/";
