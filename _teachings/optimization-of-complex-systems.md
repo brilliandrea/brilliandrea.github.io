@@ -33,4 +33,4 @@ By the end, you should have the critical thinking skills to figure out when and 
 Throughout the semester, we'll also bring in guest seminars on various topics to keep things fresh and broaden your perspective.
 
 #### Exam
-The exam consists of individual projects where you'll implement optimization methods and explore theoretical topics. You'll share your findings with the class through dedicated seminars. No exceptions—everyone presents!
+The exam consists of individual projects where you'll implement optimization methods and explore theoretical topics. You'll share your findings with the class through dedicated seminars. No exceptions, everyone presents!
