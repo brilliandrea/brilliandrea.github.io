@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Programmazione Matematica (Mathematical Programming)
+title: Programmazione Matematica (Mathematical Programming) - 90h
 description: This course covers the foundational aspects of continuous optimization problems and algorithms to solve them.
 instructor: Prof. Brilli
 year: 2025
