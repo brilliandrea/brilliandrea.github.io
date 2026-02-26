@@ -2,7 +2,7 @@
 layout: course
 title: Optimization of Complex Systems - 60h
 description: This course provides an understanding of advanced algorithms to tackle general optimization problems.
-instructor: Prof. Andrea Brilli
+instructor: Andrea Brilli
 year: 2025/2026
 term: Spring
 location: Room A4, Via Ariosto, 25, Roma
@@ -38,3 +38,4 @@ The exam consists of individual projects where you'll implement optimization met
 #### Background material
 
 - Multivariate Calculus: [Italian notes](/assets/pdf/Multivariate_calculus_note_Italiano.pdf) [English notes](/assets/pdf/Multivariate_calculus_note_English.pdf)
+- Basic concepts of Optimization [Italian notes](/assets/pdf/optimization_notes_Italiano.pdf) [English notes](/assets/pdf/optimization_notes_English.pdf)
