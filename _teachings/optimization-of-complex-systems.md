@@ -34,3 +34,7 @@ Throughout the semester, we'll also bring in guest seminars on various topics to
 
 #### Exam
 The exam consists of individual projects where you'll implement optimization methods and explore theoretical topics. You'll share your findings with the class through dedicated seminars. No exceptions, everyone presents!
+
+#### Background material
+
+- Multivariate Calculus: [Italian notes](/assets/pdf/Multivariate_calculus_note_Italiano.pdf) [English notes](/assets/pdf/Multivariate_calculus_note_English.pdf)
