@@ -13,6 +13,13 @@ schedule:
     date: Feb 24
     topic: Course Introduction
     description: Overview of mathematical optimization, course structure, and expectations.
+  - week: 1
+    date: Feb 27
+    topic: Coordinate Search
+    description: Basic derivative-free algorithmic structure with convergence analysis
+    materials:
+      - name: Slides
+        url: /assets/pdf/slides/Slides_01_27Feb26.pdf
 #    materials:
 #      - name: building ...
 #        url: /assets/pdf/example_pdf.pdf
