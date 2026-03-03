@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-03-02'
 papers:
   Tk3BpFoAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -7,7 +7,7 @@ papers:
     year: '2025'
   Tk3BpFoAAAAJ:9yKSN-GCB0IC:
     citations: 2
-    title: Nonlinear Derivative-free Constrained Optimization with a Mixed Penalty-Logarithmic Barrier Approach and Direct Search
+    title: Nonlinear derivative-free constrained optimization with a mixed penalty-logarithmic barrier approach and direct search
     year: '2024'
   Tk3BpFoAAAAJ:IjCSPb-OGe4C:
     citations: 0
@@ -18,11 +18,11 @@ papers:
     title: Airoyoung dissertation award 2025
     year: '2025'
   Tk3BpFoAAAAJ:d1gkVwhDpl0C:
-    citations: 7
+    citations: 9
     title: An interior point method for nonlinear constrained derivative-free optimization
     year: '2025'
   Tk3BpFoAAAAJ:u-x6o8ySG0sC:
-    citations: 6
+    citations: 7
     title: Worst case complexity bounds for linesearch-type derivative-free algorithms
     year: '2024'
   Tk3BpFoAAAAJ:u5HHmVD_uO8C:
