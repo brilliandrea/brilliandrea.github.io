@@ -20,6 +20,11 @@ schedule:
     materials:
       - name: Slides
         url: /assets/pdf/slides/Slides_01_27Feb26.pdf
+  - week: 2
+    date: Mar 03
+    topic: Convergence Analysis
+    description: Convergence Analysis of Coordinate descent and globalization strategies
+    materials:
       - name: Slides
         url: /assets/pdf/slides/Slides_02_03Mar26.pdf
 #    materials:
