@@ -20,6 +20,8 @@ schedule:
     materials:
       - name: Slides
         url: /assets/pdf/slides/Slides_01_27Feb26.pdf
+      - name: Slides
+        url: /assets/pdf/slides/Slides_02_03Mar26.pdf
 #    materials:
 #      - name: building ...
 #        url: /assets/pdf/example_pdf.pdf
