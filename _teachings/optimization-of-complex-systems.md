@@ -27,6 +27,13 @@ schedule:
     materials:
       - name: Slides
         url: /assets/pdf/slides/Slides_02_03Mar26.pdf
+  - week: 2
+    date: Mar 06
+    topic: Direct Search
+    description: Direct Search and introduction to complexity analysis
+    materials:
+      - name: Slides
+        url: /assets/pdf/slides/Slides_03_06Mar26.pdf
 #    materials:
 #      - name: building ...
 #        url: /assets/pdf/example_pdf.pdf
