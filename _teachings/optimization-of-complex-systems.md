@@ -5,7 +5,7 @@ description: This course provides an understanding of advanced algorithms to tac
 instructor: Andrea Brilli
 year: 2025/2026
 term: Spring
-location: Mondays Room Room 48 Via Eudossiana, 18, Roma / Tuesdays Room A5, Via Ariosto, 25, Roma
+location: Mondays Room 48 Via Eudossiana, 18, Roma / Tuesdays Room A5, Via Ariosto, 25, Roma
 time: Mondays 14:00-16:00 / Tuesdays 15:00-18:00
 course_id: optimization-of-complex-systems
 schedule:
