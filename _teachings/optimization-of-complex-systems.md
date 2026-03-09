@@ -5,8 +5,8 @@ description: This course provides an understanding of advanced algorithms to tac
 instructor: Andrea Brilli
 year: 2025/2026
 term: Spring
-location: Room A4, Via Ariosto, 25, Roma
-time: Tuesdays 15:00-18:00 / Fridays 17:00-19:00
+location: Mondays Room Room 48 Via Eudossiana, 18, Roma / Tuesdays Room A5, Via Ariosto, 25, Roma
+time: Mondays 14:00-16:00 / Tuesdays 15:00-18:00
 course_id: optimization-of-complex-systems
 schedule:
   - week: 1
@@ -34,6 +34,13 @@ schedule:
     materials:
       - name: Slides
         url: /assets/pdf/slides/Slides_03_06Mar26.pdf
+  - week: 3
+    date: Mar 09
+    topic: Multiobjective Optimization
+    description: Introduction to Multiobjective Optimization
+    materials:
+      - name: Slides
+        url: /assets/pdf/slides/Slides_04_09Mar26.pdf
 #    materials:
 #      - name: building ...
 #        url: /assets/pdf/example_pdf.pdf
