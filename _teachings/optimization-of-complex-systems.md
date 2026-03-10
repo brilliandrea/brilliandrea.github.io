@@ -41,6 +41,13 @@ schedule:
     materials:
       - name: Slides
         url: /assets/pdf/slides/Slides_04_09Mar26.pdf
+  - week: 3
+    date: Mar 10
+    topic: Multiobjective Optimization
+    description: Objective space structure, convex case, portfolio optimization, scalarization methods
+    materials:
+      - name: Slides
+        url: /assets/pdf/slides/Slides_05_10Mar26.pdf
 #    materials:
 #      - name: building ...
 #        url: /assets/pdf/example_pdf.pdf
