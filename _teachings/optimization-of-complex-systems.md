@@ -55,6 +55,12 @@ schedule:
 #        url: /assets/pdf/example_pdf.pdf
 ---
 
+# Announcement
+
+The class of Monday March 16th is cancelled!
+
+The course will continue with the following class on Tuesday March 17th.
+
 ### Course Overview
 
 The main goal of this course is to teach you how to design algorithms for different types of optimization problems. We'll dig into both the practical and theoretical sides of:
