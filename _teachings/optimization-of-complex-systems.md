@@ -57,9 +57,9 @@ schedule:
 
 # Announcement
 
-The class of Monday March 16th is cancelled!
+The class of Tuesday March 17th is cancelled!
 
-The course will continue with the following class on Tuesday March 17th.
+The course will continue with the following class on Monday March 23rd.
 
 ### Course Overview
 
