@@ -55,6 +55,13 @@ schedule:
     materials:
       - name: Slides
         url: /assets/pdf/slides/Slides_06_24Mar26.pdf
+  - week: 4
+    date: Mar 27
+    topic: Multiobjective Optimization
+    description: Quality of Pareto Front approximations
+    materials:
+      - name: Slides
+        url: /assets/pdf/slides/Slides_07_27Mar26.pdf
 #    materials:
 #      - name: building ...
 #        url: /assets/pdf/example_pdf.pdf
