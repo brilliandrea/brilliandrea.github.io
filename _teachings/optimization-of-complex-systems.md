@@ -48,6 +48,13 @@ schedule:
     materials:
       - name: Slides
         url: /assets/pdf/slides/Slides_05_10Mar26.pdf
+  - week: 4
+    date: Mar 24
+    topic: Multiobjective Optimization
+    description: Pareto Front approximation without scalarization
+    materials:
+      - name: Slides
+        url: /assets/pdf/slides/Slides_06_24Mar26.pdf
 #    materials:
 #      - name: building ...
 #        url: /assets/pdf/example_pdf.pdf
@@ -55,11 +62,8 @@ schedule:
 #        url: /assets/pdf/example_pdf.pdf
 ---
 
-# Announcement
-
-The class of Tuesday March 17th is cancelled!
-
-The course will continue with the following class on Monday March 23rd.
+# Announcements
+ On Friday 27th there will be a class at 15:00-17:00 in Room A6, Via Ariosto, 25.
 
 ### Course Overview
 
