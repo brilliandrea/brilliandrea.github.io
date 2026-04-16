@@ -73,7 +73,7 @@ schedule:
   - week: 6
     date: Apr 14
     topic: Inequality-constrained Optimization
-    description: Sequential Interior methods: theoretical proof and practical considerations
+    description: Sequential Interior methods. Theoretical proof and practical considerations
   - week: 7
     date: Apr 20
     topic: Optimization on Manifolds
