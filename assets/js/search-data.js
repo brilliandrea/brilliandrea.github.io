@@ -102,9 +102,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-",
-          title: '',
-          description: "",
+            },},{id: "teachings-optimization-of-complex-systems-60h",
+          title: 'Optimization of Complex Systems - 60h',
+          description: "This course provides an understanding of advanced algorithms to tackle general optimization problems.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/optimization-of-complex-systems/";
             },},{id: "teachings-programmazione-matematica-mathematical-programming-90h",
