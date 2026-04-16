@@ -124,4 +124,7 @@ Throughout the semester, we'll also bring in guest seminars on various topics to
 #### Exam
 
 The exam consists of individual projects where you'll implement optimization methods and explore theoretical topics. You'll share your findings with the class through dedicated seminars. No exceptions, everyone presents.
+
 About the seminars: the topics of the seminars are part of the program of the course, I will ask questions during the final seminars.
+
+You can find the topics of the projects [here](/assets/pdf/Projects_OCS_2026.pdf). The projects can be done individually or you can make groups of maximum two people, the depth of the project will change accordingly. Starting from April 20th, there will be a weekly meeting for each student/group. The meeting are scheduled every Tuesday 13:00-14:00, and every Friday 10:30-13:00, in my office (A115, Via Ariosto). I will provide a template to fill in order to organize each week.
