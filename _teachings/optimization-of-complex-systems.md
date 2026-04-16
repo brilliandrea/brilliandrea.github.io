@@ -69,9 +69,6 @@ schedule:
 #        url: /assets/pdf/example_pdf.pdf
 ---
 
-# Announcements
- On Friday 27th there will be a class at 15:00-17:00 in Room A6, Via Ariosto, 25.
-
 ### Course Overview
 
 The main goal of this course is to teach you how to design algorithms for different types of optimization problems. We'll dig into both the practical and theoretical sides of:
@@ -91,3 +88,7 @@ The exam consists of individual projects where you'll implement optimization met
 
 - Multivariate Calculus: [Italian notes](/assets/pdf/Multivariate_calculus_note_Italiano.pdf) [English notes](/assets/pdf/Multivariate_calculus_note_English.pdf)
 - Basic concepts of Optimization [Italian notes](/assets/pdf/optimization_notes_Italiano.pdf) [English notes](/assets/pdf/optimization_notes_English.pdf)
+
+#### Reference Books
+
+- "Derivative-Free and Blackbox Optimization" by C. Audet and W. Hare [book](https://link.springer.com/book/10.1007/978-3-319-68913-5)
