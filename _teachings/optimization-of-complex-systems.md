@@ -63,7 +63,7 @@ schedule:
       - name: Slides
         url: /assets/pdf/slides/Slides_07_27Mar26.pdf
   - week: 5
-    date: Mar 27
+    date: Mar 31
     topic: Inequality-constrained Optimization
     description: Introduction and Optimality Conditions
   - week: 6
@@ -122,5 +122,6 @@ Throughout the semester, we'll also bring in guest seminars on various topics to
 - "Nonlinear Programming: Sequential Unconstrained Minimization Techniques" by A.V. Fiacco and G.P. McCormick [Link](https://epubs.siam.org/doi/book/10.1137/1.9781611971316)
 
 #### Exam
+
 The exam consists of individual projects where you'll implement optimization methods and explore theoretical topics. You'll share your findings with the class through dedicated seminars. No exceptions, everyone presents.
 About the seminars: the topics of the seminars are part of the program of the course, I will ask questions during the final seminars.
