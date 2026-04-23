@@ -56,12 +56,6 @@ cv:
           - "Collaboration with Polytechnique Montréal to study nonsmooth constrained optimization problems"
           - "Collaboration with University of Florence to enhance performance of Augmented Lagrangian techniques"
 
-      - company: European Space Agency - ESRIN - ϕ-lab
-        position: Research Visiting
-        location: ESRIN, Italy
-        start_date: 2026
-        summary: Collaboration to develop denoising techniques for satellite data striping noise.
-
       - company: Polytechnique Montréal
         position: Ph.D. Visiting Researcher
         location: Montréal, Canada
@@ -112,8 +106,8 @@ cv:
           - S. Lucidi
         publisher: Journal of Optimization Theory and Applications
         releaseDate: "2026"
-        url: https://arxiv.org/abs/2402.10801
-        summary: Accepted for publication in JOTA. Analysis of complexity and active-set identification for derivative-free optimization with bound constraints.
+        url: https://doi.org/10.1007/s10957-026-02938-y
+        summary: Analysis of complexity and active-set identification for derivative-free optimization with bound constraints.
         type: published
 
       - title: A penalty-interior point method combined with mads for equality and inequality constrained optimization
@@ -127,7 +121,7 @@ cv:
         publisher: arXiv preprint
         releaseDate: "2026"
         url: https://arxiv.org/abs/2601.20811
-        summary: Novel constraint-handling method combining penalty and interior point approaches with MADS algorithm.
+        summary: Novel constraint-handling method combining penalty and interior point approaches with MADS algorithm for nonsmooth problems.
         type: preprint
 
       - title: "Tunable ito–metal plasmonic metamaterial channel for tailored sensing: A simulation-driven approach"
@@ -153,17 +147,17 @@ cv:
         summary: Novel interior point approach for solving general nonlinear constrained problems without derivatives.
         type: published
 
-      - title: Nonlinear derivative-free constrained optimization with a mixed penalty-logarithmic barrier approach and direct search
+      - title: Nonlinear derivative-free constrained optimization with a penalty-interior point method and direct search
         authors:
           - A. Brilli
           - A. L. Custódio
           - G. Liuzzi
           - E. J. Silva
         publisher: arXiv preprint
-        releaseDate: "2025"
-        url: https://arxiv.org/abs/2407.21634
-        summary: Mixed penalty-barrier method combined with direct search for general constrained derivative-free optimization.
-        type: preprint
+        releaseDate: "2026"
+        url: https://doi.org/10.1007/s11075-026-02360-5
+        summary: Mixed penalty-interior point method combined with direct search for general constrained derivative-free optimization.
+        type: published
 
       - title: Worst case complexity bounds for linesearch-type derivative-free algorithms
         authors:
