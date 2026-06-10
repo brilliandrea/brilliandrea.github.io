@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-06-10'
 papers:
   Tk3BpFoAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: Worst case complexity bounds for linesearch-type derivative-free algorithms
     year: '2024'
   Tk3BpFoAAAAJ:u5HHmVD_uO8C:
-    citations: 3
+    citations: 4
     title: 'Complexity Results and Active-Set Identification of a Derivative-Free Method for Bound-Constrained Problems: A. Brilli et al.'
     year: '2026'
   Tk3BpFoAAAAJ:zYLM7Y9cAGgC:
