@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-29'
 papers:
   Tk3BpFoAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Derivative-free optimization: worst-case complexity for line-search methods and a mixed penalty-barrier approach'
     year: '2025'
   Tk3BpFoAAAAJ:9yKSN-GCB0IC:
-    citations: 3
+    citations: 4
     title: Nonlinear derivative-free constrained optimization with a mixed penalty-logarithmic barrier approach and direct search
     year: '2024'
   Tk3BpFoAAAAJ:IjCSPb-OGe4C:
