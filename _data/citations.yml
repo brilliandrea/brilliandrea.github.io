@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-13'
 papers:
   Tk3BpFoAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Derivative-free optimization: worst-case complexity for line-search methods and a mixed penalty-barrier approach'
     year: '2025'
   Tk3BpFoAAAAJ:9yKSN-GCB0IC:
-    citations: 4
+    citations: 5
     title: Nonlinear derivative-free constrained optimization with a mixed penalty-logarithmic barrier approach and direct search
     year: '2024'
   Tk3BpFoAAAAJ:IjCSPb-OGe4C:
@@ -30,6 +30,6 @@ papers:
     title: 'Complexity Results and Active-Set Identification of a Derivative-Free Method for Bound-Constrained Problems: A. Brilli et al.'
     year: '2026'
   Tk3BpFoAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: A penalty-interior point method combined with MADS for equality and inequality constrained optimization
     year: '2026'
