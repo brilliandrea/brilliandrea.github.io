@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-27'
 papers:
   Tk3BpFoAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: An interior point method for nonlinear constrained derivative-free optimization
     year: '2025'
   Tk3BpFoAAAAJ:u-x6o8ySG0sC:
-    citations: 7
+    citations: 8
     title: Worst case complexity bounds for linesearch-type derivative-free algorithms
     year: '2024'
   Tk3BpFoAAAAJ:u5HHmVD_uO8C:
